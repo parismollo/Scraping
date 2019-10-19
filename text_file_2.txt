@@ -1,0 +1,244 @@
+Governance
+Isn’t easy to define in a simple definition
+
+#1 World Bank definition
+The manner in which power is exercised/ applied in the management of a country’s economic and social resources for development
+
+#2 WorldWide Governance Indicators
+The traditions and institutions by which authority in a country is exercised
+
+
+Institutions
+Definition by Douglas North:
+
+“Institutions are the rules of the game in a society, more formally, are the humanly devised constraints that shape human interaction”
+
+Rules of the game are the constraints of human behavior
+The major effect will be through incentives
+human control framework which differs from geographic or other fundamental causes
+
+
+How we measure governance
+World Bank WorldWide Governance Indicators : WGI project
+
+WGI reports individual and aggregate indicators for about 200 economies (96-18), and has six dimensions of governance.
+
+Voice and Accountability
+Political Stability or Absence of Violence
+Government effectiveness
+Regulatory Quality
+Rule of law
+Control of corruption
+
+The indicators are the view of entreprises, citizens, expert surveys in industrial and developing countries. Based on 30 different sources, think tanks, NGO’s, private sector etc
+
+
+
+
+Global Integrity
+It is an Index that measures corruption in 31 countries by looking at the opposite of corruption. There are three main concepts:
+Public integrity mechanisms
+Effectiveness
+Access from citizens to those mechanisms
+
+There are 6 categories:
+Non governmental organizations
+Elections
+Government conflicts
+Public administration
+Government oversight
+Anti-corruption Legal framework
+
+The three stage procedure :
+A journalist analyzed qualitatively the culture of corruption and state of governance
+A researcher aggregates around 300 indicators per country and assign scores
+Two national and one international expert blindly peer review the data
+
+
+Common Limits to governance Indicators
+Not enough countries + Problem of translating qualitative data…
+
+
+Afrobarometer
+Pan african non partisan survey research project that measures citizen attitudes on democracy and governance.
+
+Objectives: Produce reliable data, strengthen the capacity of African institutions, disseminate and apply democratic governance survey results.
+
+Conclusion: Still difficulty to measure accurately governance + Problem of normativity (corruption)
+
+Main Takeaways
+There are different levels of indicators that have different purposes
+There is no perfect indicator, there is always a trade-off
+There is an importance of long term use of more specific indicators
+
+
+Social Spending
+
+Public Social Spending , there are three types:
+Social Protection
+Social insurance
+Social assistance
+Education Services
+Health Services
+
+Social spending can help build human capital, promote equity and raise growth potential
+
+
+Social Spending: Does governance matter ?
+Conclusions of the paper:
+
+Differences in the efficacy of public spending can be largely explained by the quality of governance
+
+Public health spending lowers child mortality rates more in countries with good governance
+
+Similarly, public spending on primary education becomes more effective in increasing primary education attainment in countries with good governance
+
+More generally, public spending has virtually no impact on health and education outcomes in poorly governed countries, whereas, there is a positive impact of public spending in countries with good governance.
+
+
+Dreher et al. (2008) found that additional education spending in developing and middle-income countries contribute very less to improvement in education outcomes.
+
+Filmer and Pritchett (1999) found no effect of public health spending on child mortality. They argue that inadequate institutional capacity and market failures are behind the weak link between health spending and improvements in health status.
+
+
+
+Aid and Governance
+It is the assistance governments, non government organisations, business and individuals of one country give to the people of another country to help reduce poverty and achieve sustainable development
+
+Aid = ODA
+
+Types of AID:
+Bilateral aid
+
+Multilateral aid
+
+
+Tied aid
+
+
+
+
+Un target for ODA
+
+
+Development Aid outside governments
+
+80-85% of global development aid comes from governments as official development assistance (ODA) $135 billion total ODA in 2014
+
+Remaining 15-20% comes from private sources: non-governmental organisations (NGOs), foundations, remittances, etc. (E.g. Bill Gates Foundation etc.)
+
+
+Pros and Cons : AID
+
+PROS
+Long term aid for health and education projects builds human capital and stronger social institutions
+Project aid can fast forward investment in critical infrastructure projects
+Helps to overcome the savings gap
+Aid can play a key role in stabilising post conflict environments and in disaster recovery
+Well targeted aid might add around 0.5% to growth rate of poorest countries – this benefits donor countries too as trade grows (this effect is contested in the academic community)
+CONS
+Aid may lead to a distortion of market forces and a loss of economic efficiency and risks of inflation
+Aid can finance corruption and can make ruling elites more powerful
+Dependency culture
+Lack of transparency
+
+
+
+
+
+
+Opinions on the topic :
+Book - Dead aid
+Professor - Paul Collier
+
+“An increase in the aid-to-GDP ratio is associated with a long-run decrease in GDP in almost two-thirds of the countries” Dierk Herzer and Oliver Morrissey (2013)
+
+Four key barriers for aid effectiveness:
+Corruption
+Religious tension
+Size of government
+Involvement of military
+
+
+
+Angus Deaton on Aid
+
+
+
+
+Challenge when gauging the impact of aid
+What period to look at?
+Data quality issues
+Types of aid
+Reverse causality
+
+Multilateral Organizations
+
+
+
+Role of the world bank
+The World Bank is the world's largest multilateral development agency
+
+• WB provides a wide array of financial products and technical assistance, and helps countries share and apply innovative knowledge and solutions to the challenges they face
+
+• Since 1947, the World Bank has funded over 12,000 development projects, via traditional loans, interest-free credits, and grants
+
+
+The World Bank Group has set two goals for the world to achieve by 2030:
+
+• End extreme poverty by decreasing the percentage of people living on less than $1.90 a day to no more than 3%
+• Promote shared prosperity by fostering income growth of the bottom 40% for every country
+
+Role of the International Monetary Fund (IMF)
+The IMF basically does three things:
+
+Economic Surveillance
+• IMF oversees the international monetary system and monitors the economic and financial policies. It highlights possible risks to stability and advises on needed policy adjustments.
+
+Lending
+• Provides loans to member countries experiencing actual or potential balance of payments problems to help them rebuild their international reserves, stabilize their currencies, continue paying for imports, and restore conditions for strong economic growth
+
+Capacity Development
+• IMF works with governments around the world to modernize their economic policies and institutions, and train their people
+
+
+Institutions and trade
+What are Institutions?
+
+• Defined as the “humanly devised constraints that shape human interaction” (North 1990).
+
+• Institutions include social norms, laws, regulations, political constitutions and international
+treaties (‘rules of the game’).
+
+• Include both formal rules (e.g. laws, property rights) and informal constraints (e.g. taboos,
+customs).
+
+ex:
+
+
+What is International Trade?
+
+• International trade is the exchange of goods and services between countries
+• Trading globally gives consumers and countries the opportunity to be exposed to goods
+and services not available in their own countries
+• The concept of comparative advantage!
+• Almost every kind of product can be found on the international market: food, clothes,
+spare parts, oil, jewellery, wine, stocks, currencies, water.. etc.
+• Services are also traded: tourism, banking, consulting and transportation
+• If there is a trade of goods and services, then there will be a money flow; inflow and
+outflow
+
+What are the reasons for trade?
+
+1. Difference in resource endowment
+• Resource endowments refer to the skills and abilities of a country’s workforce, the natural
+resources available within its borders (minerals, farmland, etc.), and the sophistication of
+its capital stock (machinery, infrastructure, communications systems)
+
+2. Difference in technology
+• Technology refers to the techniques used to turn resources (labor, capital, land) into
+outputs (goods and services)
+
+3. Differences in demand
+• Canadians and Germans may demand more beer
+• Chinese are likely to demand more
