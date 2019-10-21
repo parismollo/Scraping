@@ -1,6 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+from typing import Dict, Set
+import random
 url = "https://www.house.gov/representatives"
 text = requests.get(url).text
 soup = BeautifulSoup(text, 'html5lib')
@@ -21,13 +23,45 @@ assert not re.match (regex, "https://joel.house.gov/biography")
 
 
 good_urls = [url for url in all_urls if re.match(regex, url)]
-print(len(good_urls))
+# print(len(good_urls))
 good_urls = list(set(good_urls))
-print(len(good_urls))
-print(good_urls[:5])
+print(f"Number of urls: {len(good_urls)}")
+# print(good_urls[:5])
 
 
 html = requests.get('https://jayapal.house.gov').text
 soup = BeautifulSoup(html, 'html5lib')
 links = {a['href'] for a in soup('a') if 'press releases' in a.text.lower()}
-print(links)
+# print(links) # {'/media/press-releases'}
+
+good_urls = random.sample(good_urls,10)
+print(f"Randomly picked {len(good_urls)} urls")
+
+
+press_releases: Dict[str, Set[str]] = {}
+for house_urls in good_urls:
+    html = requests.get(house_urls).text
+    soup = BeautifulSoup(html, 'html5lib')
+    pr_links = {a['href'] for a in soup('a') if 'press releases' in a.text.lower()}
+    print(f"{house_urls}: {pr_links}")
+    press_releases[house_urls] = pr_links
+
+
+
+def paragraph_mentions(text: str, keyword: str) -> bool:
+    soup = BeautifulSoup(text, 'html5lib')
+    paragraphs = [p.get_text() for p in soup('p')]
+    return any(keyword.lower() in paragraph.lower() for paragraph in paragraphs)
+
+text = """<body><h1>Facebook</h1><p>Twitter</p>"""
+assert paragraph_mentions(text, "twitter")
+assert not paragraph_mentions(text, "facebook")
+
+for house_url, pr_links in press_releases.items():
+    for pr_link in pr_links:
+        url = f"{house_url}/{pr_link}"
+        text = requests.get(url).text
+
+        if paragraph_mentions(text, 'data'):
+            print(f"****{house_url}**** mentions the word 'data' at least once")
+            break
