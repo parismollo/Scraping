@@ -34,7 +34,7 @@ soup = BeautifulSoup(html, 'html5lib')
 links = {a['href'] for a in soup('a') if 'press releases' in a.text.lower()}
 # print(links) # {'/media/press-releases'}
 
-good_urls = random.sample(good_urls,100)
+good_urls = random.sample(good_urls,10)
 print(f"Randomly picked {len(good_urls)} urls")
 
 
