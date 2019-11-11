@@ -1,5 +1,5 @@
 # Scraping Data from the web
-The purpose of this repository is to practice scraping techniques with python. Exercise from the Book "Data Science from Scratch".
+The purpose of this repository is my self practice of scraping techniques with python. Exercise from the Book "Data Science from Scratch".
 
 I am a student that is learning, let me know if you find any errors,the code is inspired from examples and exercises found in books.
 
